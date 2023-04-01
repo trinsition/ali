@@ -1,0 +1,8 @@
+/* Add this new rule to the existing styles.css file */
+
+#listening-indicator {
+    display: none;
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+}
